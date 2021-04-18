@@ -1,0 +1,30 @@
+[
+    {
+        "question": "What is the capital of India",
+        "a": "Delhi",
+        "b": "Hyderabad",
+        "c": "Chennai",
+        "answer": "A"
+    },
+    {
+        "question": "What is the currency of India?",
+        "a": "Rupee",
+        "b": "Dollar",
+        "c": "Yen",
+        "answer": "A"
+    },
+    {
+        "question": "What is the regional language of Telangana?",
+        "a": "Hindi",
+        "b": "Telugu",
+        "c": "English",
+        "answer": "B"
+    },
+    {
+        "question": "What is the national bird of India?",
+        "a": "Tiger",
+        "b": "Lion",
+        "c": "Peacock",
+        "answer": "C"
+    }
+]
