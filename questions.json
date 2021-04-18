@@ -1,0 +1,30 @@
+[
+    {
+        "question": "What is 100+0",
+        "a": "1000",
+        "b": "100",
+        "c": "0",
+        "answer": "B"
+    },
+    {
+        "question": "What is 100*0?",
+        "a": "100",
+        "b": "1000",
+        "c": "0",
+        "answer": "C"
+    },
+    {
+        "question": "What is cube of 3?",
+        "a": "9",
+        "b": "27",
+        "c": "3",
+        "answer": "B"
+    },
+    {
+        "question": "What is factorial of 2?",
+        "a": "2",
+        "b": "1",
+        "c": "4",
+        "answer": "A"
+    }
+]
